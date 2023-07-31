@@ -43,4 +43,4 @@ The repository is organized as follows:
 
 ## Note
 
-Please refer to the provided Jupyter notebooks in the `notebooks` directory for step-by-step implementation and training details.
+This repo is still in working progress, the segmentation task is still pending
